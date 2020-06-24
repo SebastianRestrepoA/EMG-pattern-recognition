@@ -16,7 +16,7 @@ You must have NumPy, Pandas, Matplotlib, Scipy, and  Pyyawt installed.
 
 ### Running the project
 
-1. Clone intent classification project in a local directory.
+1. Clone emg pattern recognition project in a local directory.
 ```
 git clone https://github.com/SebastianRestrepoA/EMG-pattern-recognition.git
 ```
